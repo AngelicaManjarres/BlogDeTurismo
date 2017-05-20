@@ -1,0 +1,31 @@
+body {
+  font-family: helvetica, sans-serif, verdana, arial;
+}
+.padding {
+  padding: 10px;
+}
+.margin {
+  margin: 10px;
+}
+.logo {
+  width: 60%;
+}
+.borde {
+  border: 1px solid black;
+}
+.slogan {
+  margin-top: 85px;
+}
+.im {
+  width: 100%;
+  height: 250px;
+}
+.centro {
+  width: 100%;
+}
+.entrada {
+  width: 30%;
+}
+.imautor {
+  width: 50%;
+}
